@@ -44,7 +44,3 @@ Some commonly used libraries may include:
 - **Pandas**
 - **Matplotlib**
 - **Scikit-learn**
-
-
-│
-└── README.md
